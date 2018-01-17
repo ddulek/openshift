@@ -1,4 +1,5 @@
 FROM registry.access.redhat.com/rhscl/s2i-base-rhel7
+#Probably use core instead of removing nodejs6
 
 # This image provides a Node.JS environment you can use to run your Node.JS
 # applications.
